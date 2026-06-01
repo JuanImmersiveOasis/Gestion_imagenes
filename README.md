@@ -1,1 +1,1 @@
-# Galeria_Imagenes
+# Gestion_imagenes
